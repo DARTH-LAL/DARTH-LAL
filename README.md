@@ -57,13 +57,36 @@
 
 ### 🚀 Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| 🚗 **AI Driver Fatigue Detection** | Python · OpenCV · MediaPipe · YOLOv8 · Streamlit | Real-time fatigue & distraction monitoring with 468-point facial landmark tracking and audio alerts |
-| 🐦 **NEAT Flappy Bird Agent** | Python · NEAT · Pygame | Evolutionary neural network trained to play Flappy Bird — zero labelled data |
-| ⚽ **Football Injury Predictor** | Python · Scikit-learn · Pandas | ML pipeline predicting player time-loss injuries across 5 European leagues (2020–2025) |
-| 🧤 **Glove Defect Detection** | Python · OpenCV · Streamlit | Pure OpenCV pipeline detecting holes, discolouration & structural damage — no deep learning |
-| 💳 **Credit Risk Classifier** | R · Tidyverse · ggplot2 | Logistic Regression vs Random Forest vs Decision Tree with ROC-AUC evaluation |
-| 🎮 **Zephyr Odyssey** | Python · Pygame | Cinematic side-scroller with particle effects, cutscenes & dynamic audio — built from scratch |
-| 🏫 **Course Recovery System** | Jakarta EE · JSF · EJB · JDBC · MySQL | Full-stack enterprise app with role-based auth and academic progression modules |
+<p align="center">
+  <a href="https://github.com/DARTH-LAL/AI-Driver-Fatigue-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARTH-LAL&repo=AI-Driver-Fatigue-Detection-System&theme=tokyonight&hide_border=true&title_color=FF4444&icon_color=FF4444" width="48%"/>
+  </a>
+  <a href="https://github.com/DARTH-LAL/Making-AI-play-flappy-bird">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARTH-LAL&repo=Making-AI-play-flappy-bird&theme=tokyonight&hide_border=true&title_color=FF4444&icon_color=FF4444" width="48%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DARTH-LAL/injury-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARTH-LAL&repo=injury-prediction&theme=tokyonight&hide_border=true&title_color=FF4444&icon_color=FF4444" width="48%"/>
+  </a>
+  <a href="https://github.com/DARTH-LAL/glove-detection-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARTH-LAL&repo=glove-detection-system&theme=tokyonight&hide_border=true&title_color=FF4444&icon_color=FF4444" width="48%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DARTH-LAL/Credit-Risk-Classification-In-Depth-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARTH-LAL&repo=Credit-Risk-Classification-In-Depth-Data-Analysis&theme=tokyonight&hide_border=true&title_color=FF4444&icon_color=FF4444" width="48%"/>
+  </a>
+  <a href="https://github.com/DARTH-LAL/zephyr-odyssey">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARTH-LAL&repo=zephyr-odyssey&theme=tokyonight&hide_border=true&title_color=FF4444&icon_color=FF4444" width="48%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DARTH-LAL/course-recovery-system-crs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARTH-LAL&repo=course-recovery-system-crs&theme=tokyonight&hide_border=true&title_color=FF4444&icon_color=FF4444" width="48%"/>
+  </a>
+</p>
 
