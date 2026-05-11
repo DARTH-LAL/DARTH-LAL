@@ -22,24 +22,36 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,cpp,r,mysql,git,angular,opencv&theme=dark&perline=10"/>
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit,github,vscode&theme=dark&perline=10"/>
-</p>
+![Python](https://img.shields.io/badge/Python-FF4444?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF4444?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-FF4444?style=flat-square&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/R-FF4444?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF4444?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF4444?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF4444?style=flat-square&logo=cplusplus&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MediaPipe-FF4444?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-FF4444?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-FF4444?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-FF4444?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-FF4444?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NEAT_Algorithm-FF4444?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pygame-FF4444?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tidyverse-FF4444?style=flat-square&logo=r&logoColor=white"/>
-</p>
+**AI / ML / Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-FF4444?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF4444?style=flat-square&logo=google&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF4444?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF4444?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF4444?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF4444?style=flat-square&logo=numpy&logoColor=white)
+![NEAT](https://img.shields.io/badge/NEAT_Algorithm-FF4444?style=flat-square&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-FF4444?style=flat-square&logo=r&logoColor=white)
+
+**Frameworks & Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4444?style=flat-square&logo=streamlit&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FF4444?style=flat-square&logo=angular&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF4444?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF4444?style=flat-square&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-FF4444?style=flat-square&logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF4444?style=flat-square&logo=mysql&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-FF4444?style=flat-square&logoColor=white)
 
 ---
 
