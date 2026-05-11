@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0808,50:1a0404,100:2d0808&height=140&section=header&text=Ajneya%20Lal&fontSize=55&fontColor=FF4444&fontAlignY=42&animation=fadeIn&desc=AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack%20Engineering%20%C2%B7%20Data%20Science&descColor=8b949e&descAlignY=68&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4444&center=true&vCenter=true&width=560&lines=Building+real-time+AI+systems;Computer+Vision+%7C+OpenCV+%7C+YOLOv8+%7C+MediaPipe;ML+Engineer+%7C+Python+%7C+Scikit-learn;Full-Stack+Dev+%7C+Angular+%7C+Jakarta+EE;Data+Scientist+%7C+EDA+%7C+Statistical+Modelling+%7C+Tableau;Evolutionary+Algorithms+%7C+NEAT"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=Building+real-time+AI+systems;Computer+Vision+%7C+OpenCV+%7C+YOLOv8+%7C+MediaPipe;ML+Engineer+%7C+Python+%7C+Scikit-learn;Full-Stack+Dev+%7C+Angular+%7C+Jakarta+EE;Data+Scientist+%7C+EDA+%7C+Statistical+Modelling+%7C+Tableau;Evolutionary+Algorithms+%7C+NEAT"/>
 </p>
 
 <p align="center">
