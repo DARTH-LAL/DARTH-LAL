@@ -24,34 +24,34 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-FF4444?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF4444?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FF4444?style=flat-square&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/R-FF4444?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF4444?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF4444?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF4444?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **AI / ML / Vision**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-FF4444?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF4444?style=flat-square&logo=google&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF4444?style=flat-square&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF4444?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-FF4444?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-FF4444?style=flat-square&logo=numpy&logoColor=white)
-![NEAT](https://img.shields.io/badge/NEAT_Algorithm-FF4444?style=flat-square&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-FF4444?style=flat-square&logo=r&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NEAT](https://img.shields.io/badge/NEAT_Algorithm-222222?style=flat-square&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Frameworks & Tools**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4444?style=flat-square&logo=streamlit&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-FF4444?style=flat-square&logo=angular&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF4444?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF4444?style=flat-square&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-FF4444?style=flat-square&logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF4444?style=flat-square&logo=mysql&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-FF4444?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-006400?style=flat-square&logoColor=white)
 
 ---
 
