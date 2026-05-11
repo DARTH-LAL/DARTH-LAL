@@ -17,7 +17,6 @@
 - 🌱 Currently going deep on **LLMs, Reinforcement Learning & Agentic AI**
 - 📊 Love turning raw, messy data into **predictive models and actionable insights**
 - 🤝 Always open to collaborating on **ML, Computer Vision or full-stack projects**
-- ⚡ Fun fact: I once trained a neural net to play Flappy Bird using **evolution, not backprop**
 
 ---
 
