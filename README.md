@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Ajneya%20Lal&fontSize=60&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack%20Engineering&descColor=8b949e&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a0a,100:2d0a0a&height=180&section=header&text=Ajneya%20Lal&fontSize=60&fontColor=FF4444&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack%20Engineering&descColor=8b949e&descAlignY=60&descSize=20"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+real-time+AI+systems;Computer+Vision+%7C+OpenCV+%7C+YOLOv8+%7C+MediaPipe;ML+Engineer+%7C+Python+%7C+Scikit-learn;Full-Stack+Dev+%7C+Angular+%7C+Jakarta+EE;Evolutionary+Algorithms+%7C+NEAT"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4444&center=true&vCenter=true&width=560&lines=Building+real-time+AI+systems;Computer+Vision+%7C+OpenCV+%7C+YOLOv8+%7C+MediaPipe;ML+Engineer+%7C+Python+%7C+Scikit-learn;Full-Stack+Dev+%7C+Angular+%7C+Jakarta+EE;Evolutionary+Algorithms+%7C+NEAT"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DARTH-LAL&color=58A6FF&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=DARTH-LAL&color=FF4444&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
@@ -73,4 +73,4 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a0a,50:1a0a0a,100:0d1117&height=100&section=footer"/>
