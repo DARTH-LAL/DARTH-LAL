@@ -31,14 +31,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NEAT_Algorithm-1a1a2e?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pygame-006400?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tidyverse-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF4444?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-FF4444?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-FF4444?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-FF4444?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-FF4444?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NEAT_Algorithm-FF4444?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pygame-FF4444?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tidyverse-FF4444?style=flat-square&logo=r&logoColor=white"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ### 📬 Let's Connect
 
 <a href="mailto:ajneyalal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-FF4444?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0808,50:1a0404,100:2d0808&height=100&section=footer"/>
