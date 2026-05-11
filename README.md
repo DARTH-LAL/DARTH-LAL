@@ -67,4 +67,3 @@
 | 🎮 **Zephyr Odyssey** | Python · Pygame | Cinematic side-scroller with particle effects, cutscenes & dynamic audio — built from scratch |
 | 🏫 **Course Recovery System** | Jakarta EE · JSF · EJB · JDBC · MySQL | Full-stack enterprise app with role-based auth and academic progression modules |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0808,50:1a0404,100:2d0808&height=100&section=footer"/>
