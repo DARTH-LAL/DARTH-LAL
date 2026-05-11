@@ -12,11 +12,12 @@
 
 ### 🧠 About Me
 
-- 🔭 Building real-time **AI systems** — fatigue detection, object detection, defect classification
-- 🌱 Deepening expertise in **LLMs, Prompt Engineering & Reinforcement Learning**
-- 💼 Previously interned at **SWIFT**, **noon.com** and **Koovs.com** across fintech, payments & e-commerce
-- 🤝 Open to collaborating on **ML, Computer Vision or full-stack projects**
-- 🌍 Background spanning India · Canada · UAE · Malaysia
+- 🔭 Building real-time **Computer Vision systems** — from 468-point facial landmark tracking to pure OpenCV defect pipelines
+- 🤖 Fascinated by **how machines learn** — from deep neural nets to evolutionary algorithms that need zero labelled data
+- 🌱 Currently going deep on **LLMs, Reinforcement Learning & Agentic AI**
+- 📊 Love turning raw, messy data into **predictive models and actionable insights**
+- 🤝 Always open to collaborating on **ML, Computer Vision or full-stack projects**
+- ⚡ Fun fact: I once trained a neural net to play Flappy Bird using **evolution, not backprop**
 
 ---
 
