@@ -67,22 +67,4 @@
 | 🎮 **Zephyr Odyssey** | Python · Pygame | Cinematic side-scroller with particle effects, cutscenes & dynamic audio — built from scratch |
 | 🏫 **Course Recovery System** | Jakarta EE · JSF · EJB · JDBC · MySQL | Full-stack enterprise app with role-based auth and academic progression modules |
 
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DARTH-LAL/DARTH-LAL/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DARTH-LAL/DARTH-LAL/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DARTH-LAL/DARTH-LAL/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
----
-
-### 📬 Let's Connect
-
-<a href="mailto:ajneyalal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF4444?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0808,50:1a0404,100:2d0808&height=100&section=footer"/>
